@@ -1,2 +1,2 @@
-# documentation-exercise
-Documentation of development activity.
+#documentation of developement activity.  
+
